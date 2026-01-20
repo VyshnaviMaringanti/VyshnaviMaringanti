@@ -6,14 +6,6 @@ I’m a Business Analytics graduate student at UT Austin (McCombs) with a strong
 
 I’m especially interested in translating complex or messy data into clear insights that stakeholders can easily understand and act on.
 
-### 🚧 What I’m Working On
-- Decision-intelligence and optimization projects  
-- Forecasting and scenario analysis   
-
-### 📌 Featured Projects
-- Agrofood CO₂ Emissions Forecasting & Scenario Analysis  
-- Marketing Budget ROI Optimization  
-
 ### 📫 Let’s Connect
 Email: **vyshumari@gmail.com**  
 LinkedIn: **linkedin.com/in/vyshnavi-maringanti**
